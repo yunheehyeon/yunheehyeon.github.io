@@ -1,9 +1,35 @@
-# 우아한프리코스
+# 우아한프리코스 후기
 
-<center><img src="/docs/images/techcourse_poster.jpeg" width="300" height="300"></center>
+[<center><img src="/docs/images/techcourse_poster.jpeg" width="400" height="450"></center>](http://woowabros.github.io/woowabros/2019/02/08/woowacourse.html)
 
-1차 심사에 통과하면 3주간의 프리코스가 진행된다.
+## 온라인 코딩 테스트
+온라인 코딩 테스트는 총 7문제가 나왔습니다. 가장 어려운 문제가 60라인 정도 되는 난이도였으며
+문제에 표기되지 않은 테스트 케이스에 대한 고려도 하면서 문제를 풀었습니다.  
 
-<center><img src="/docs/images/freecourse_info.png" width="300" height="300"></center>
+## 프리코스
+1차 심사에 통과하면 3주간의 프리코스가 진행됩니다.
 
-프리코스 과정 안내 이메일
+[<center><img src="/docs/images/freecourse_info.png" width="300" height="300"></center>](https://yunheehyeon.github.io/docs/images/freecourse_info.png)
+
+<center>프리코스 과정 안내 이메일</center>
+
+각 주차가 끝날때마다 과정을 진행하는 사람들의 공통적인 문제에 대한 피드백을 줍니다. 다음 과제에 피드백 받은
+부분을 생각하면서 하는 것이 중요하다고 생각합니다.
+
+## 오프라인 코딩 테스트
+프리코스에서 과제를 수행했던 방식 그대로 오프라인에서 진행합니다. 프리코스를 성실히 한 사람
+이면 당황하지 않고 문제를 푸시면 됩니다. 
+
+
+## 선발 과정 난이도
+1차 심사, 3주간의 프리코스, 오프라인 코딩 테스트까지 선발 과정이 상당히 길다고 생각할 수 있습니다.
+하지만 단순히 알고리즘만으로 실력을 판가름하지 않고 코딩 컨벤션과 8개월간의 과정을 지속할 수 있는 성실성에
+대한 부분을 더 중점적으로 평가했다고 생각합니다. 
+
+도전을 고민하는 사람이라면
+
+* 300라인 정도의 프로그래밍 구현이 가능한 수준
+* 함수, 변수, 데이터 타입, 조건문, 반복문을 활용해 프로그래밍 구현이 가능한 수준
+* 구현한 소스 코드를 git과 같은 소스코드 관리 도구에 추가할 수 있는 수준
+
+8개월간의 과정을 지속할 동기, 성실함, 간절함이 있다면 꼭 도전해 보시길 바랍니다.
