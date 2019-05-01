@@ -23,8 +23,8 @@
 1차 심사에 통과하면 3주간의 프리코스가 진행됩니다.
 
 [<center><img src="/docs/images/freecourse_info.png" width="400" height="300"></center>](https://yunheehyeon.github.io/docs/images/freecourse_info.png)
-###### <center>**프리코스 과정 안내 이메일**</center>
-</br>
+###### <center>프리코스 과정 안내 이메일</center>
+
 
 각 주차가 끝날때마다 과정을 진행하는 사람들의 공통적인 문제에 대한 피드백을 줍니다. 다음 과제에 피드백 받은
 부분을 생각하면서 하는 것이 중요하다고 생각합니다.
