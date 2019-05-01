@@ -127,9 +127,13 @@
   </component>
   <component name="PropertiesComponent">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556714343291" />
 =======
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556714886931" />
+>>>>>>> docs
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556721242925" />
 >>>>>>> docs
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
