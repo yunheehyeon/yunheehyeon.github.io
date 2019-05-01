@@ -3,15 +3,28 @@
 [<center><img src="/docs/images/techcourse_poster.jpeg" width="400" height="450"></center>](http://woowabros.github.io/woowabros/2019/02/08/woowacourse.html)
 
 ## 온라인 코딩 테스트
-온라인 코딩 테스트는 총 7문제가 나왔습니다. 가장 어려운 문제가 60라인 정도 되는 난이도였으며
+온라인 코딩 테스트는 총 7문제가 나왔습니다. 가장 어려운 문제가 100라인 정도 되는 난이도였으며
 문제에 표기되지 않은 테스트 케이스에 대한 고려도 하면서 문제를 풀었습니다.  
+
+간단히 문제를 소개하면(문제의 순서는 다를 수 있습니다.)
+1. 주어진 금액을 나누면 5만 원에서 1원까지 각각 몇 개씩 나올까요?
+2. 2차원 평면에 내 위치가 다른 사람의 집과 겹지치 않고 수원지를 포함한 집인가요?
+3. 암호문을 해독하는 문제
+4. 두 명이 임의로 책을 펼쳐서 나온 양 페이지의 숫자로 우승자를 구하는 문제
+5. 주어진 숫자에 3, 6, 9 가 몇 개 들어있나요?
+6. 주어진 로그를 분석하는 문제
+7. 주어진 문자를 규칙에 따라 변환하는 문제
+
+특정한 알고리즘 문제보다는 문자를 나누어 처리하거나 숫자를 문자로 바꾸어서
+하나씩 처리하는 등의 논리적인 생각을 묻는 문제가 나왔다고 생각합니다.
+  
 
 ## 프리코스
 1차 심사에 통과하면 3주간의 프리코스가 진행됩니다.
 
-[<center><img src="/docs/images/freecourse_info.png" width="300" height="300"></center>](https://yunheehyeon.github.io/docs/images/freecourse_info.png)
-
-<center>프리코스 과정 안내 이메일</center>
+[<center><img src="/docs/images/freecourse_info.png" width="400" height="300"></center>](https://yunheehyeon.github.io/docs/images/freecourse_info.png)
+###### <center>**프리코스 과정 안내 이메일**</center>
+</br>
 
 각 주차가 끝날때마다 과정을 진행하는 사람들의 공통적인 문제에 대한 피드백을 줍니다. 다음 과제에 피드백 받은
 부분을 생각하면서 하는 것이 중요하다고 생각합니다.
