@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="757449f8-85a5-4254-8551-d26a404d31cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/asdf/a.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/asdf/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/c.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/qwer/b.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
-    </list>
+    <list default="true" id="757449f8-85a5-4254-8551-d26a404d31cb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +54,8 @@
         <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+              <first_editor relative-caret-position="240">
+                <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -84,8 +78,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="2" />
+    <option name="x" value="2" />
+    <option name="y" value="16" />
     <option name="width" value="1519" />
     <option name="height" value="1011" />
   </component>
@@ -101,6 +95,23 @@
               <item name="yunheehyeon.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="yunheehyeon.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="yunheehyeon.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yunheehyeon.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yunheehyeon.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yunheehyeon.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="asdf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yunheehyeon.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yunheehyeon.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="qwer" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -110,7 +121,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556693204023" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556693718082" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -265,11 +276,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/qwer/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SUMMARY.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <first_editor relative-caret-position="240">
+            <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
