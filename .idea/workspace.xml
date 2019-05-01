@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="757449f8-85a5-4254-8551-d26a404d31cb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/publish_gitbook.sh" beforeDir="false" afterPath="$PROJECT_DIR$/publish_gitbook.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/w_freecourse/baseball.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/w_freecourse/lotto.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/w_freecourse/racingcar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/w_techcourse/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/asdf/a.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/w_techcourse/a.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/asdf/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/w_freecourse/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +20,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/asdf/index.md">
+        <entry file="file://$PROJECT_DIR$/docs/w_techcourse/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -23,7 +30,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/asdf/a.md">
+        <entry file="file://$PROJECT_DIR$/docs/w_techcourse/a.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -52,23 +59,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <first_editor relative-caret-position="264">
+                <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/publish_gitbook.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -84,16 +82,20 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2019-05-01-포스트 작성.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-01-post-test.md" />
-        <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/docs/publish_gitbook.sh" />
         <option value="$PROJECT_DIR$/publish_gitbook.sh" />
+        <option value="$PROJECT_DIR$/docs/우아한테크코스/우아한프리코스/1주_숫자야구게임.md" />
+        <option value="$PROJECT_DIR$/docs/우아한테크코스/우아한프리코스/2주_자동차경주게임.md" />
+        <option value="$PROJECT_DIR$/docs/우아한테크코스/우아한프리코스/3주_로또.md" />
+        <option value="$PROJECT_DIR$/docs/우아한테크코스/우아한프리코스/index.md" />
+        <option value="$PROJECT_DIR$/SUMMARY.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2" />
-    <option name="y" value="16" />
-    <option name="width" value="1519" />
+    <option name="x" value="191" />
+    <option name="y" value="38" />
+    <option name="width" value="1603" />
     <option name="height" value="1011" />
   </component>
   <component name="ProjectView">
@@ -113,6 +115,12 @@
               <item name="yunheehyeon.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="yunheehyeon.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yunheehyeon.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="w_freecourse" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -122,11 +130,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556694028529" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556696023866" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\heehyeon\myBlog\yunheehyeon.github.io\docs" />
       <recent name="C:\Users\heehyeon\myBlog\yunheehyeon.github.io" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -159,7 +168,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="16" width="1519" height="1011" extended-state="0" />
+    <frame x="191" y="38" width="1603" height="1011" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -167,7 +176,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2878684" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.272197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -248,7 +257,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/asdf/index.md">
+    <entry file="file://$PROJECT_DIR$/docs/w_techcourse/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -256,7 +265,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/asdf/a.md">
+    <entry file="file://$PROJECT_DIR$/docs/w_techcourse/a.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -288,11 +297,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+    <entry file="file://$PROJECT_DIR$/docs/w_freecourse/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <first_editor>
+            <caret column="9" selection-start-column="9" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/w_freecourse/lotto.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="4" selection-start-column="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/w_freecourse/racingcar.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="11" selection-start-column="11" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/w_freecourse/baseball.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="10" selection-start-column="10" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
@@ -300,8 +339,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/publish_gitbook.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        <state relative-caret-position="264">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="264">
+            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
