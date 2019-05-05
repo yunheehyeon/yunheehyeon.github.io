@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="757449f8-85a5-4254-8551-d26a404d31cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/images/baseball_code.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/baseball_ex.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/baseball_fun.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/baseball_code.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/baseball_code.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/baseball_ex.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/baseball_ex.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/baseball_fun.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/baseball_fun.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/w_freecourse/baseball.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/w_freecourse/baseball.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/w_freecourse/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/w_freecourse/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/w_freecourse/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -50,12 +48,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/w_freecourse/baseball.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="264">
-                <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+              <first_editor relative-caret-position="384">
+                <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -80,8 +78,8 @@
         <option value="$PROJECT_DIR$/docs/우아한테크코스/우아한프리코스/3주_로또.md" />
         <option value="$PROJECT_DIR$/docs/우아한테크코스/우아한프리코스/index.md" />
         <option value="$PROJECT_DIR$/SUMMARY.md" />
-        <option value="$PROJECT_DIR$/docs/w_freecourse/baseball.md" />
         <option value="$PROJECT_DIR$/docs/w_freecourse/index.md" />
+        <option value="$PROJECT_DIR$/docs/w_freecourse/baseball.md" />
       </list>
     </option>
   </component>
@@ -129,7 +127,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556727002882" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557035315366" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -302,21 +300,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/w_freecourse/baseball.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="264">
-            <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/w_freecourse/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="912">
             <caret line="38" selection-start-line="38" selection-end-line="38" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/w_freecourse/baseball.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="384">
+            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           </first_editor>
           <second_editor />
         </state>
