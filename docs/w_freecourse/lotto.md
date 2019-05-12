@@ -8,7 +8,7 @@
 
 ![lotto_code](/docs/images/lotto_code2.png)
 
-![lotto_code](/docs/images/lotto_code2.png)
+![lotto_code](/docs/images/lotto_code3.png)
 
 ### 실행 예시
 ![lotto_ex](/docs/images/racingcar_ex.png)
