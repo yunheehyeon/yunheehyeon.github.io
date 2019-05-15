@@ -8,5 +8,5 @@
   * [3주_로또](docs/w_freecourse/lotto.md)
 
 * [우아한테크코스 2019](docs/w_techcourse/index.md)
- * [1주자_자동차경주게임](docs/w_techcourse/1week.md)
+ * [LV1](docs/w_techcourse/level1.md)
   
