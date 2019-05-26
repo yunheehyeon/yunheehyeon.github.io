@@ -27,6 +27,11 @@ TDD = TFD(test first development) + 리팩토링
 * todo list 작성
 * 설계를 몰아서 하지말고 설계를 자주하자 - 설계활동의 분산
 
+## 피드백
+* 펙토리 클래스
+* 의존성 주입
+* Collections.unmodifiableList 로 불변의 객체
+
 # 3주차 - 
 # 4주차 - 
 # 5주차 - 
